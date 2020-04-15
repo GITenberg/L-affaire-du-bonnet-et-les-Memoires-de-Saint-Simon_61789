@@ -1,0 +1,30 @@
+_repo: L-affaire-du-bonnet-et-les-Memoires-de-Saint-Simon_61789
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Funck-Brentano, Frantz
+    aliases:
+    - Funck-Brentano, Jacques Chrétien Frantz Seraphicus
+    - Funck-Brentano, Jacques Chretien Frantz Seraphicus
+    birthdate: 1862
+    deathdate: 1947
+    gutenberg_agent_id: '42082'
+    url: http://www.gutenberg.org/2009/agents/42082
+creator:
+  author:
+    agent_name: Grellet-Dumazeau, André
+    gutenberg_agent_id: '51613'
+    url: http://www.gutenberg.org/2009/agents/51613
+description: ''
+gutenberg_issued: '2020-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61789'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: L'affaire du bonnet et les Mémoires de Saint-Simon
+url: http://www.gutenberg.org/ebooks/61789
