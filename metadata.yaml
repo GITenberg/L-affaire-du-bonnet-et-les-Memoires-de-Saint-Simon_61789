@@ -1,5 +1,5 @@
 _repo: L-affaire-du-bonnet-et-les-Memoires-de-Saint-Simon_61789
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Funck-Brentano, Frantz
@@ -10,12 +10,17 @@ contributor:
     deathdate: 1947
     gutenberg_agent_id: '42082'
     url: http://www.gutenberg.org/2009/agents/42082
+covers:
+- cover_type: archival
+  image_path: 61789-h/images/cover.jpg
 creator:
   author:
     agent_name: Grellet-Dumazeau, André
     gutenberg_agent_id: '51613'
     url: http://www.gutenberg.org/2009/agents/51613
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61789#L-affaire-du-bonnet-et-les-Memoires-de-Saint-Simon
 gutenberg_issued: '2020-04-08'
 gutenberg_type: Text
 identifiers:
